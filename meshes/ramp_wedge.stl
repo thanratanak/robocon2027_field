@@ -1,0 +1,58 @@
+solid ramp_wedge
+ facet normal 0.000000 0.000000 -1.000000
+  outer loop
+   vertex -0.500000 -1.750000 0.000000
+   vertex 0.500000 1.750000 0.000000
+   vertex 0.500000 -1.750000 0.000000
+  endloop
+ endfacet
+ facet normal 0.000000 0.000000 -1.000000
+  outer loop
+   vertex -0.500000 -1.750000 0.000000
+   vertex -0.500000 1.750000 0.000000
+   vertex 0.500000 1.750000 0.000000
+  endloop
+ endfacet
+ facet normal 0.000000 0.168964 0.985622
+  outer loop
+   vertex -0.500000 -1.750000 0.600000
+   vertex 0.500000 1.750000 0.000000
+   vertex -0.500000 1.750000 0.000000
+  endloop
+ endfacet
+ facet normal -0.000000 0.168964 0.985622
+  outer loop
+   vertex -0.500000 -1.750000 0.600000
+   vertex 0.500000 -1.750000 0.600000
+   vertex 0.500000 1.750000 0.000000
+  endloop
+ endfacet
+ facet normal 0.000000 -1.000000 0.000000
+  outer loop
+   vertex -0.500000 -1.750000 0.000000
+   vertex 0.500000 -1.750000 0.000000
+   vertex 0.500000 -1.750000 0.600000
+  endloop
+ endfacet
+ facet normal 0.000000 -1.000000 0.000000
+  outer loop
+   vertex -0.500000 -1.750000 0.000000
+   vertex 0.500000 -1.750000 0.600000
+   vertex -0.500000 -1.750000 0.600000
+  endloop
+ endfacet
+ facet normal -1.000000 0.000000 0.000000
+  outer loop
+   vertex -0.500000 -1.750000 0.000000
+   vertex -0.500000 -1.750000 0.600000
+   vertex -0.500000 1.750000 0.000000
+  endloop
+ endfacet
+ facet normal 1.000000 0.000000 0.000000
+  outer loop
+   vertex 0.500000 -1.750000 0.000000
+   vertex 0.500000 1.750000 0.000000
+   vertex 0.500000 -1.750000 0.600000
+  endloop
+ endfacet
+endsolid ramp_wedge
